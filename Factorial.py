@@ -3,10 +3,10 @@
 
 from tkinter import *
 import pymysql
-from math import *
+#from math import *
 from tkinter import ttk
 import tkinter as tk
-from tkinter import scrolledtext as st
+#from tkinter import scrolledtext as st
 
 
 class Application(ttk.Frame):
